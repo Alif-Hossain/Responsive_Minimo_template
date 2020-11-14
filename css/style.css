@@ -232,7 +232,9 @@ footer{
 	color:gray;
 	margin-left: 10px;
 }
-.social-menu ul li a:hover{}
+.social-menu ul li a:hover{
+	color: black;
+}
 
 /* scroll button */
 
@@ -245,7 +247,7 @@ footer{
     font-size: 10px;
     border: none;
     outline: none;
-    background-color: rgb(19, 17, 17);
+    background-color: gray;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -253,8 +255,8 @@ footer{
   }
   
   #myBtn:hover {
-    background-color: gray;
-    color: black;
+    background-color: black;
+    color: white;
   }
 
 /*scroll button end*/
