@@ -93,6 +93,7 @@ footer{
 }
      #myBtn {
         bottom: 60px;
+         right: 10px;
     }
  }
 
@@ -158,6 +159,7 @@ footer{
     }
      #myBtn {
         bottom: 70px;
+         right: 20px
     }
     
  }
