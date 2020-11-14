@@ -1,0 +1,1 @@
+# Responsive_Minimo_template
