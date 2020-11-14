@@ -91,6 +91,9 @@ footer{
 .social-menu ul li span {
     font-size: 13px;
 }
+     #myBtn {
+        bottom: 60px;
+    }
  }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -152,6 +155,9 @@ footer{
     }
     .social-menu ul li span {
         font-size: 14px;
+    }
+     #myBtn {
+        bottom: 70px;
     }
     
  }
